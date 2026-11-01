@@ -1,10 +1,10 @@
 @echo off
 chcp 65001 >nul
 cd /d "%~dp0"
-title NMINHIOS MOD Z ALOK - WEB SERVER NỘI BỘ
+title ANOTHERLFE MOD Z ALOK - WEB SERVER NỘI BỘ
 
 echo ==============================================================
-echo    DANG KHOI CHAY WEB MOD SKIN ALOK AWK OB55 (NMINHIOS)
+echo    DANG KHOI CHAY WEB MOD SKIN ALOK AWK OB55 (ANOTHERLFE)
 echo ==============================================================
 echo.
 echo [1] Trinh duyet tren may tinh se tu dong mo: http://localhost:8000

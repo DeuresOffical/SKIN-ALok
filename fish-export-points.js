@@ -1,4 +1,4 @@
-/* nminhios local mode. This build runs without the original Supabase account/points backend. */
+/* anotherlfe local mode. This build runs without the original Supabase account/points backend. */
 (() => {
   const heading = () => document.getElementById('fish-mod-turns');
   if (heading()) heading().textContent = 'Bản chạy cục bộ · không cần đăng nhập';

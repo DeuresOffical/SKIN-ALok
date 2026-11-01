@@ -85,7 +85,7 @@
     const s=selection(), file=fileForSelection(s);
     const captions={hair:'Tóc',top:'Áo',bottom:'Quần',shoes:'Chân',mask:'Nạ',face:'Mặt',action:assets.characterId==='ignis'?'Nấm đấm':'Hành động'};
     $('selection-summary').textContent=fields.map(k=>captions[k]+': '+picked(k,s).name).join(' · ');
-    if(assets.characterId==='alok')$('selection-summary').textContent+=' · Bản quyền nminhios';
+    if(assets.characterId==='alok')$('selection-summary').textContent+=' · Bản quyền anotherlfe';
     try { localStorage.setItem(storageKey(),JSON.stringify(Object.fromEntries(fields.map(k=>[k,picked(k,s).id])))); } catch {}
     $('download').disabled = downloading || !file;
     $('download-all').disabled = downloading || !file;

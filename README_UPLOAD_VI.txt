@@ -1,4 +1,4 @@
-nminhios — GÓI ĐƯA LÊN HOSTING (GitHub Pages)
+anotherlfe — GÓI ĐƯA LÊN HOSTING (GitHub Pages)
 
 1) Giải nén toàn bộ ZIP vào một thư mục.
 2) Trên Windows, cần Python 3.10+ và Internet. Chạy PREPARE_UPLOAD.bat và đợi tải xong ảnh runtime.
